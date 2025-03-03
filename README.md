@@ -4,15 +4,15 @@
 Welcome to the Arthtattva AI Business Query System! This is an interactive web application designed to help you gain insights into your business data effortlessly. Built using Streamlit and Plotly, it allows you to ask questions in natural language and get instant visualizations and summaries.
 
 ## Approach
-1. **User Interface**: We’ve created a user-friendly interface where you can easily input your business-related questions. To help you get started, we’ve included some example questions in the sidebar.
+1. **User Interface**: I’ve created a user-friendly interface where you can easily input your business-related questions. To help you get started, I’ve included some example questions in the sidebar.
 
-2. **Natural Language Processing**: Our `QueryProcessor` class translates your natural language questions into SQL queries. This means you can ask a wide range of business-related questions, and our system will understand and process them.
+2. **Natural Language Processing**: The `QueryProcessor` class translates your natural language questions into SQL queries. This means you can ask a wide range of business-related questions, and the system will understand and process them.
 
 3. **Database Interaction**: The `DatabaseManager` class takes care of executing the SQL queries against the database and fetching the relevant data based on your questions.
 
-4. **Data Visualization**: Using Plotly, the `create_visualization` function generates visualizations that best represent your data and the nature of your question. Whether it’s line charts, bar charts, pie charts, or indicators, we’ve got you covered.
+4. **Data Visualization**: Using Plotly, the `create_visualization` function generates visualizations that best represent your data and the nature of your question. Whether it’s line charts, bar charts, pie charts, or indicators, I’ve got you covered.
 
-5. **Error Handling**: We’ve included error handling to manage situations where data might be unavailable or a question cannot be processed. You’ll be informed of any issues through clear warning or error messages.
+5. **Error Handling**: I’ve included error handling to manage situations where data might be unavailable or a question cannot be processed. You’ll be informed of any issues through clear warning or error messages.
 
 ## Features
 - **Natural Language Querying**: Simply ask your questions in natural language and get relevant insights.
