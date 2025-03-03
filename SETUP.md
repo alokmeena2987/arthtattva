@@ -9,7 +9,6 @@ Welcome to the Arthtattva AI Business Query System! This is an interactive web a
 - [Setup](#setup)
 - [Usage](#usage)
 - [Dependencies](#dependencies)
-- [Future Enhancements](#future-enhancements)
 
 
 ## Features
@@ -58,19 +57,5 @@ Welcome to the Arthtattva AI Business Query System! This is an interactive web a
 - DatabaseManager 
 - QueryProcessor 
 
-## Future Enhancements
-- **Enhanced NLP**: Improve the natural language processing capabilities to handle more complex queries.
-- **More Visualizations**: Add more visualization options and customization features.
-- **Data Integration**: Integrate with additional data sources for a more comprehensive analysis.
-- **Predictive Analytics**: Incorporate machine learning models to predict future trends and outcomes based on historical data.
-- **Real-time Data**: Enable real-time data processing and visualization for up-to-the-minute insights.
-- **Mobile App**: Develop a mobile version of the application for on-the-go access to business insights.
-- **User Authentication**: Implement user authentication and role-based access control to secure sensitive business data.
-- **Custom Dashboards**: Allow users to create and save customizable dashboards tailored to their specific needs.
-- **Business Tool Integration**: Integrate with popular business tools like CRM systems, ERP systems, and marketing platforms.
-- **Advanced Reporting**: Provide advanced reporting features, including scheduled reports, export options, and automated email reports.
-- **Sentiment Analysis**: Incorporate sentiment analysis to gauge customer sentiment from reviews, feedback, and social media.
-- **Voice Querying**: Enable voice-based querying to allow users to ask questions using voice commands.
-- **Collaboration Features**: Add collaboration features such as shared dashboards, comments, and annotations to facilitate team discussions and decision-making.
 
 
